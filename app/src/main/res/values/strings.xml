@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GadsPracticeProject</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="submit">Submit</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="project_on_github_link_hint">Project on GITHUB(link)</string>
+    <string name="submit_form">Submit</string>
+    <string name="are_you_sure">Are you Sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="error">Error</string>
+    <string name="_223_learning_hours">223 learning hours,</string>
+    <string name="kenya">Kenya</string>
+    <string name="ahmed_hany">Ahmed Hany</string>
+    <string name="_300_skill_iq_score">300 skill IQ Score,</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+</resources>
